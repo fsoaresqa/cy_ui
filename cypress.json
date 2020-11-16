@@ -1,0 +1,7 @@
+{
+  "testFiles": "**/*.feature",
+  "baseUrl": "https://www.unimed.coop.br/",
+  "video": false,
+  "viewportWidth": 1920,
+  "viewportHeight": 1080
+}
