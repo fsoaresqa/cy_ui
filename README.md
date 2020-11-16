@@ -6,7 +6,7 @@ Installation
 
 Instale o Cypress: npm install cypress --save-dev 
 
-Clone: https://github.com/fsoaresqa/cy_guia_medico.git
+Clone: https://github.com/fsoaresqa/cy_ui.git
 
 Instalar as dependências (package.json): npm install
 
