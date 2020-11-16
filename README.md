@@ -1,4 +1,4 @@
-# cy_guia_medico
+# cy_ui
 
 Exemplo de pesquisa e validações utilizando cypress
 
