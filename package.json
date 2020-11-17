@@ -1,5 +1,5 @@
 {
-  "name": "cy_guia_medico",
+  "name": "cy_ui",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
@@ -19,5 +19,13 @@
   "keywords": [],
   "author": "Fernando Soares",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsoaresqa/cy_ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fsoaresqa/cy_ui/issues"
+  },
+  "homepage": "https://github.com/fsoaresqa/cy_ui#readme",
   "description": ""
 }
